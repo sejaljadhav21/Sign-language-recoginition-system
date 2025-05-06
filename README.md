@@ -17,20 +17,20 @@ This project is an early-stage, machine learning-based system designed to recogn
 1. Clone the repository:
    ```bash
    git clone https://github.com/sejaljadhav21/Sign-language-recognition-system.git
-```
+   ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd sign-language-recognition
-```
+   cd Sign-language-recognition-system
+   ```
 
 3. Install the required dependencies:
 
    ```bash
    pip install -r requirements.txt
-```
----
+   ```
+
 
 ## Usage
 
