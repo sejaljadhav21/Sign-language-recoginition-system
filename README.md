@@ -23,13 +23,13 @@ This project is an early-stage, machine learning-based system designed to recogn
 
    ```bash
    cd sign-language-recognition
-   ```
+```
 
 3. Install the required dependencies:
 
    ```bash
    pip install -r requirements.txt
-   ```
+```
 ---
 
 ## Usage
