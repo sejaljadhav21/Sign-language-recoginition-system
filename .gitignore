@@ -1,0 +1,20 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Model files and experimental scripts
+*.h5
+*.json
+trial.py
+command.txt
+
+# Data and logs
+MP_Data/
+Logs/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
