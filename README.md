@@ -1,4 +1,5 @@
-## Sign Language Recognition System (Prototype)
+
+# Sign Language Recognition System (Prototype)
 
 This project is an early-stage, machine learning-based system designed to recognize and interpret hand gestures from *American Sign Language (ASL)*, specifically the letters **A**, **B**, and **C**. It uses computer vision techniques—such as hand landmark tracking with **MediaPipe**—and a trained deep learning model to classify gestures in real-time from live video input. The primary goal is to bridge the communication gap between hearing-impaired individuals and others by creating a tool that can translate sign language gestures into readable text or spoken words.
 
@@ -10,13 +11,13 @@ This project is an early-stage, machine learning-based system designed to recogn
 - **MediaPipe Integration:** Utilizes hand landmark tracking for precise gesture recognition.
 - **Deep Learning Model:** A custom-trained model to classify hand gestures from video input.
 - **User-friendly Interface:** Simplified for easy interaction by non-technical users.
-
+---
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sejaljadhav21/sign-language-recognition.git
-````
+   git clone https://github.com/sejaljadhav21/Sign-language-recognition-system.git
+```
 
 2. Navigate to the project directory:
 
@@ -29,6 +30,7 @@ This project is an early-stage, machine learning-based system designed to recogn
    ```bash
    pip install -r requirements.txt
    ```
+---
 
 ## Usage
 
@@ -80,13 +82,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 * [MediaPipe](https://google.github.io/mediapipe/) for hand tracking solutions.
 * [TensorFlow](https://www.tensorflow.org/) for model building.
 * [OpenCV](https://opencv.org/) for computer vision tasks.
-
-```
-
-### Notes:
-1. **Images:** Replace `images/gesture-recognition.png`, `images/output-sample.png`, and `images/hand-tracking.png` with the actual image paths you plan to use in your repository.
-2. **Customization:** Update the clone URL with your actual GitHub repository URL.
-3. **Deep Learning Model:** If you're using a specific deep learning framework (e.g., TensorFlow, PyTorch), make sure it's mentioned in the requirements and usage instructions.
-
 
 ```
