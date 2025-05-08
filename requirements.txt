@@ -1,3 +1,4 @@
 tensorflow==2.19.0
 mediapipe==pip show scikit-learn0.10.21
 scikit-learn==1.6.1
+
