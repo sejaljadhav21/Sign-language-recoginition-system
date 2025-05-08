@@ -37,7 +37,7 @@ This project is an early-stage, machine learning-based system designed to recogn
 1. Run the script:
 
    ```bash
-   python recognize_gesture.py
+   python app.py
    ```
 
 2. Allow the script to access your camera to capture live video.
@@ -69,11 +69,12 @@ This project is an early-stage, machine learning-based system designed to recogn
 * Python 3.x
 * OpenCV
 * MediaPipe
+* scikit-learn
 * TensorFlow (for deep learning model)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -82,5 +83,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 * [MediaPipe](https://google.github.io/mediapipe/) for hand tracking solutions.
 * [TensorFlow](https://www.tensorflow.org/) for model building.
 * [OpenCV](https://opencv.org/) for computer vision tasks.
-
+* [scikit-learn](https://scikit-learn.org/) for machine learning tasks.
 ```
