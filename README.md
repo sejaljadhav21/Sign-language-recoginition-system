@@ -1,5 +1,5 @@
 
-# Sign Language Recognition System (Prototype)
+# Sign Language Recognition System 
 
 This project is an early-stage, machine learning-based system designed to recognize and interpret hand gestures from *American Sign Language (ASL)*, specifically the letters **A**, **B**, and **C**. It uses computer vision techniques—such as hand landmark tracking with **MediaPipe**—and a trained deep learning model to classify gestures in real-time from live video input. The primary goal is to bridge the communication gap between hearing-impaired individuals and others by creating a tool that can translate sign language gestures into readable text or spoken words.
 
